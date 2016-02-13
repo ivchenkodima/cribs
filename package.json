@@ -1,0 +1,24 @@
+{
+  "name": "crips",
+  "version": "1.0.0",
+  "description": "angular project for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivchenkodima/cribs.git"
+  },
+  "author": "ivchenkodmytriy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivchenkodima/cribs/issues"
+  },
+  "homepage": "https://github.com/ivchenkodima/cribs#readme",
+  "devDependencies": {
+    "angular": "^1.5.0",
+    "bootstrap": "^3.3.6",
+    "gulp": "^3.9.1"
+  }
+}
